@@ -1,0 +1,23 @@
+{
+  "name":           "bahasa",
+  "description":    "Localization for node.js",
+  "keywords":       ["localization", "i18n", "node.js", "coffee-script", "express"],
+  "author":         "Sebastian E. Ferreyra Pons <sebastian@infomerx.com>",
+  "version":        "0.0.0",
+  "readmeFilename": "README.md",
+  "license":        "BSD",
+  "main":           "./lib/bahasa",
+  "scripts": {
+    "pretest":        "cake build",
+    "prepublish":     "cake build",
+    "test":           "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs":           "https://github.com/infomerx/bahasa.js/issues",
+  "repository": {
+    "type":           "git",
+    "url":            "git://github.com/infomerx/bahasa.js.git"
+  },
+  "bugs": {
+    "url":            "https://github.com/infomerx/bahasa.js/issues"
+  }
+}
