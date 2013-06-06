@@ -5,7 +5,7 @@
   "author":         "Sebastian E. Ferreyra Pons <sebastian@infomerx.com>",
   "version":        "0.0.0",
   "readmeFilename": "README.md",
-  "license":        "BSD",
+  "license":        "MIT",
   "main":           "./lib/bahasa",
   "scripts": {
     "pretest":        "cake build",
