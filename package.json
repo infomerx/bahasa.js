@@ -3,7 +3,7 @@
   "description":    "Localization for node.js and express",
   "keywords":       ["localization", "i18n", "node.js", "coffee-script", "express"],
   "author":         "Sebastian E. Ferreyra Pons <sebastian@infomerx.com>",
-  "version":        "0.0.0",
+  "version":        "0.0.1",
   "readmeFilename": "README.md",
   "license":        "MIT",
   "main":           "./lib/bahasa",
