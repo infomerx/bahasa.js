@@ -9,7 +9,7 @@
   "main":           "./lib/bahasa",
   "scripts": {
     "pretest":        "cake build",
-    "prepublish":     "cake build",
+    "postinstall":    "cake build",
     "test":           "echo \"Error: no test specified\" && exit 1"
   },
   "bugs":           "https://github.com/infomerx/bahasa.js/issues",
